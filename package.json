@@ -1,0 +1,32 @@
+{
+  "name": "jsaqa_3",
+  "version": "1.0.0",
+  "description": "jest test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config",
+    "test:coverage": "jest --collectCoverage"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "jsaqa"
+  ],
+  "author": "Sergio",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.2.2",
+    "mocha": "^10.1.0",
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boarderbare/JS_DZ3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Boarderbare/JS_DZ3/issues"
+  },
+  "homepage": "https://github.com/Boarderbare/JS_DZ3#readme"
+}
